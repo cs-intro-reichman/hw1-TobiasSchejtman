@@ -10,7 +10,7 @@ public class Bill3 {
 		double splitBill = Math.ceil((double)bill / 3);
 
 
-		System.out.println("Dear " + Name1 + ", " + Name2 + ", and " + Name3 + ": pay  " + splitBill + "  Shekels each.");
+		System.out.println("Dear " + Name3 + ", " + Name2 + ", and " + Name1 + ": pay " + splitBill + " Shekels each.");
 
 	
 	}
