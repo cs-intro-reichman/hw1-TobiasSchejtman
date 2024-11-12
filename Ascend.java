@@ -24,6 +24,7 @@ public class Ascend {
 		int mid2 = Math.min(max2,max3);
 		int middle = Math.min(mid1,mid2);
 
+		System.out.println(a + " " + b + " " + c);
 		System.out.println(minimum + " " + middle + " " + maximum);
 	
 		
